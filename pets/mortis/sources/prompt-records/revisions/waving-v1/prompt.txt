@@ -1,0 +1,10 @@
+Use case: identity-preserve. Asset: four-frame horizontal desktop-pet animation strip.
+Image 1 is approved Mortis canonical: EXACT identity, proportions, costume and polished 2D chibi rendering. Image 2 is spacing guide ONLY: never draw lines, boxes or labels. Images 3 and 4 are supporting official costume/personality references only; DO NOT copy their texture, scene, mask, proportions, or layout.
+Generate EXACTLY FOUR separate full-body poses, left to right in one horizontal row on flat solid pure #FF00FF. Wide empty gutters and outer margins; every head, hand, hair tip and shoe complete. Use same camera, character height, head width, torso length and foot baseline in all four frames. Almost front-facing throughout, only a tiny playful head tilt; feet stay planted.
+A lively, playful theatrical greeting specific to Mortis:
+1. Friendly small smile, right hand (viewer-left) rising from chest toward beret brim.
+2. Same hand's fingertips touch beret edge in a jaunty salute; brows slightly lifted, cheerful open smile.
+3. That same hand opens into a compact confident wave beside cheek; brief one-eye wink, other eye retains exact amber-gold iris, dark oval pupil and white highlight.
+4. Hand lowers to upper chest/side, both eyes open with friendly small smile, gentle return toward frame 1.
+Tiny weight shift, cape and long hair follow through subtly. Hand is always attached through wrist and sleeve. Keep beret ON and identical size/shape. No bow. No props.
+Preserve pale sage long hair, asymmetric bangs, red beret with dark band, red earrings, thin warm dark outlines, gold-trimmed black capelet, wine-red pointed lapels, cream pleated jabot with emerald brooch, cream puff sleeves and black cuffs, wine-red shorts, short dark tights, burgundy buckle shoes. Same short-legged approximately two-head chibi proportions and golden eye construction as image 1. Rich fine details but consistent anatomy. No text, guide marks, shadows, floor, particles, detached effects, motion lines, extra limbs, or background objects. Clean opaque sprite edges.

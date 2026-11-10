@@ -1,0 +1,9 @@
+Create one clean full-body reference sprite for ChatGPT pet 若叶睦.
+
+Pet identity: Wakaba Mutsumi in Ganso Bandori-chan mini-anime chibi style. PRIMARY reference is the two-view small chibi image: large round head about half total height, very short compact body and tiny legs, pale sage green flat long hair with straight segmented bangs and side hair clip, half-lidded muted olive-gold small eyes, tiny straight mouth, deadpan quiet expression. Gray-blue plaid school dress with white collar and cuffs, small green neck bow, cream ankle socks and brown shoes. Flat opaque cel colors, thin charcoal outline, NO gradients, no blush, no sparkly large eyes, no glossy hair streaks. The previous atlas is identity only; replace its tall proportions, sailor uniform and rendering with PRIMARY reference. No background decorations or props..
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `flat-vector`: Flat vector-style mascot with simple geometric forms, crisp color areas, clean outline, and minimal shading.
+
+
+Place a single centered pose on a perfectly flat pure user-selected #FF00FF chroma-key background. Keep the full pet visible, compact, readable at 192x208, and easy to animate. Preserve approved reference identity cues. No scenery, text, borders, checkerboard transparency, shadows, glows, detached effects, or extra props. Keep #FF00FF and close colors out of the pet, props, highlights, and effects.
+
+USER EYE CORRECTION: match revised canonical base eyes exactly: warm golden-brown irises, distinct dark ROUND-OVAL pupils (not thin vertical sticks), restrained white catchlight, pale cream lower iris and subtle upper shading. Keep half-open upper eyelid and quiet attentive gaze. No empty lifeless eyes. Original chibi screenshot and revised base are primary.

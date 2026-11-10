@@ -1,0 +1,58 @@
+{
+  "slug": "sakiko",
+  "name": "Togawa Sakiko",
+  "romanized": "Togawa Sakiko",
+  "description": "Blue-gray braids and curls, a white blouse and diamond-pattern skirt, with elegant gestures.",
+  "spritesheet": "spritesheet.png",
+  "jump_backup": "spritesheet-with-jump.png",
+  "format": "RGBA PNG",
+  "sprite_version": 2,
+  "dimensions": [
+    1536,
+    2288
+  ],
+  "cell_size": [
+    192,
+    208
+  ],
+  "frames_per_row": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "populated_frames": 73,
+  "look_directions": 16,
+  "default_hover_behavior": "greeting",
+  "row_4_source_cells": [
+    [
+      3,
+      0
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "sha256": "726eb003b2bd44c3ebbb85a416be4f4b4dc7e22348f7bd7473da1b70e02c9c4a",
+  "jump_backup_sha256": "17ce6368becf63eae17357a284a601fffaa0eb30a662ac1aa99cba34ac3ceb0c"
+}

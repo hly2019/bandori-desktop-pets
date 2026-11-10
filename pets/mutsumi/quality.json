@@ -1,0 +1,40 @@
+{
+  "final_pixels_match_previously_uploaded_pet": true,
+  "packaged_sprite_bytes_unchanged": true,
+  "jump_backup_differs_only_in_row_4": true,
+  "greeting_cells_match_approved_wave_and_idle": true,
+  "review_scope": "Previously completed native-frame, proportion, direction and transparent-edge reviews; packaging validation does not claim new live app interaction testing.",
+  "prior_verification": {
+    "verified_at": "2026-11-09T22:41:56.717358+00:00",
+    "server_rgba_pixels_match_final": true,
+    "local_sha256": "c7fec3f3e4b45a00be399d07b84d524c83936461cc40a345a7e9b166382ac500",
+    "server_sha256": "3e4db42ad87b485b5ac27ee7d712793ed9a8e1bd60112ece13520fda86a60d27",
+    "dimensions": [
+      1536,
+      2288
+    ],
+    "only_changed_cells": [
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        4
+      ]
+    ],
+    "all_other_cells_match_downloaded_original": true
+  }
+}

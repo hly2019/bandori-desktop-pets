@@ -1,0 +1,22 @@
+{
+  "final_pixels_match_previously_uploaded_pet": true,
+  "packaged_sprite_bytes_unchanged": true,
+  "jump_backup_differs_only_in_row_4": true,
+  "greeting_cells_match_approved_wave_and_idle": true,
+  "review_scope": "Previously completed native-frame, proportion, direction and transparent-edge reviews; packaging validation does not claim new live app interaction testing.",
+  "prior_verification": {
+    "ok": true,
+    "dimensions": [
+      1536,
+      2288
+    ],
+    "downloaded_dimensions": [
+      1536,
+      2288
+    ],
+    "rgba_pixels_identical": true,
+    "encoded_bytes_identical": false,
+    "local_sha256": "b81e856dde94731144cbab033ae942ea59436eba377c01df091b89b73fe14ad5",
+    "downloaded_sha256": "eb1731a41e0b6ab17f0adcf90020f25407f95bc37ec282a2005b70d366c5e929"
+  }
+}

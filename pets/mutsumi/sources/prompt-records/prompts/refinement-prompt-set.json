@@ -1,0 +1,19 @@
+{
+  "mode": "built-in image_gen",
+  "reference_priority": [
+    "approved idle first source crop for exact anatomy",
+    "approved eye canonical and original user chibi references",
+    "fetched current stored atlas to preserve identity",
+    "per-row invisible layout guide"
+  ],
+  "final_prompt_summaries": {
+    "jumping": "Exactly five poses; identical approved idle anatomy in start/landing, gentle vertical hop with small knee tuck, fixed skull/torso size, no squash/stretch or hair/skirt flare, warm oval pupils/highlights. Five evenly spaced complete sprites on FF00FF.",
+    "cardinals": "Four poses UP RIGHT DOWN LEFT, same planted frontal torso/waist/skirt/feet and round skull as idle. Only modest head pivot and natural eyes/hair follow; no face stretching or disappearing.",
+    "look_row9": "Eight coherent clockwise poses000..157.5. Head pitch/yaw and eyes supply both axes, body stays frontal/planted. Reference approved cardinals and idle, preserve crown/face/torso scale.",
+    "look_row10": "Edit approved row9 into matching eight-pose180..337.5 continuation; preserve body/hair/feet geometry and source camera scale, both eyes visible at modest head turns; anatomically consistent hairclip and fixed outfit. Full strip uniform source-resolution calibration applied before shared registration.",
+    "waving": "See worker-waving prompt and visual-review files; four-frame raised hand wave, using duplicated approved idle source as edit reference to lock anatomy.",
+    "waiting": "See worker-waiting artifacts; six-frame quiet clasped-hands expectation with slight raised gaze, tilt, blink and lowered hands.",
+    "thinking": "See worker-thinking/prompt.txt exact prompt; six-frame chin support, downward gaze, head tilt, blink and return; active task thinking rather than locomotion."
+  },
+  "notes": "These are reproducibility summaries of the final prompt set; exact built-in calls remain in conversation. Worker exact prompt files are retained where present."
+}

@@ -1,0 +1,23 @@
+{
+  "pets": [
+    {
+      "slug": "mutsumi",
+      "name": "Wakaba Mutsumi",
+      "romanized": "Wakaba Mutsumi",
+      "description": "Quiet expressions, a plaid uniform, gentle greetings and subtle motion."
+    },
+    {
+      "slug": "sakiko",
+      "name": "Togawa Sakiko",
+      "romanized": "Togawa Sakiko",
+      "description": "Blue-gray braids and curls, a white blouse and diamond-pattern skirt, with elegant gestures."
+    },
+    {
+      "slug": "mortis",
+      "name": "Mortis",
+      "romanized": "Mortis",
+      "description": "A red beret and black-and-red stage costume, with playful salutes, winks and reactions."
+    }
+  ],
+  "format_version": 1
+}

@@ -1,0 +1,12 @@
+Create ONE coherent horizontal eight-frame animation strip of Mortis from BanG Dream Ave Mujica using attached image 1 as the exact authoritative chibi model. Match its compact two-head proportions: large head plus red beret occupy over half total height, short torso, very short legs. Preserve pale sage long hair, asymmetric fringe, red beret/dark band, red earrings, large amber-gold eyes with dark oval pupils and white catchlights, black capelet with gold leaf trim, wine-red pointed lapels, cream pleated jabot and emerald brooch, cream puffed sleeves/black cuffs, wine shorts, dark tights, burgundy buckle shoes. Second image is original costume only; do not copy plush style. Third reference is INVISIBLE EIGHT-SLOT SPACING ONLY; do not draw guide lines.
+Output EXACTLY EIGHT completely separate full-body sprites in ONE left-to-right row on pure solid opaque #FF00FF. Wide canvas 3:1 or wider if supported; make each figure small enough that every complete hat, hair edge, hand and shoe fits with generous pure-magenta gaps. Identical apparent scale throughout, feet planted on one baseline. No cropping, no touching adjacent poses, no duplicated extras, no labels/grid/text/borders. Crisp warm dark lines, muted clean cel shading, opaque solid character.
+Action is a gentle theatrical FAILURE then self-composed recovery, paced as one continuous gesture and expression:
+1 relaxed confident smile, arms at sides;
+2 startled raised eyebrows, open amber eyes, small surprised mouth, shoulders rise slightly, hands just starting inward;
+3 mildly puffed cheeks and pressed lips, brows disappointed, hands nearer chest;
+4 clasped hands directly beneath chin, worried but cute eyes, slight shoulder slump;
+5 hands remain together, eyes closed in small sigh, head/shoulders dip slightly WITHOUT resizing head or body;
+6 eyes reopen softly, one attached hand lifts to touch the beret brim to steady herself, other hand lowers toward chest;
+7 hand lowers from hat, posture straightens, tentative determined smile;
+8 confident relaxed smile, arms almost back at sides, very close to frame 1 for seamless loop.
+Use small continuous hair/cape follow-through; preserve head width, short legs, costume and eye construction. No tears, stars, icons, punctuation, horror, motion marks, shadows, dust, trails, glows or detached effects. Hands remain anatomically attached with simple readable chibi fingers; do not make palms into extra accessories. State is disappointment recovery, not greeting.
