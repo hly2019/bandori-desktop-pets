@@ -1,7 +1,9 @@
-# Generation sources
+# Generated source artwork
 
-`strips/` contains the selected canonical artwork, nine animation strips, cardinal direction anchors, and two look-direction strips. The magenta background was used for subsequent transparency processing.
+`strips/` contains the selected generated character base, nine animation strips, direction anchors and two look rows. The magenta backgrounds are intended for transparency extraction.
 
-`prompt-records/` preserves original prompts and selected revisions in the language used during production. Filenames indicate revision provenance; `strips/` contains the selected artwork. Production used the Pets plugin tools for extraction, shared registration, assembly, and edge cleanup. These are editing sources; prompts alone are not expected to reproduce the generated images pixel for pixel.
+`prompt-records/` preserves original prompts and revisions, including superseded attempts. The selected images in `strips/` are authoritative. Local paths and temporary image URLs have been replaced with portable placeholders.
 
-Earlier candidates, per-frame caches, and complete production archives remain in the original project and are not duplicated in this finished collection.
+Production also used frame selection, transparency processing, shared-scale registration, assembly and visual review. These sources document the process; prompts alone do not guarantee pixel-identical regeneration. Earlier candidates and complete production archives remain in the original project.
+
+The selected `waving.png` is the repaired greeting. Its prompt is in `prompt-records/hover-proportion-repair/`; the other selected strips are unchanged. Repair evidence is in `../reviews/` and `../previews/before-after.gif`.

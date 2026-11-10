@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "root_issue": "Source-art head-to-body ratio mismatch; equal whole-body height concealed it.",
+  "before": "Brooch center around121px versus129.5px in idle, alongside78px unobstructed beret width versus83px idle.",
+  "after": "Brooch centers129.0–129.17px and hat width83–84px, within subpixel/antialias variation of idle; all greeting heights168px and baseline202.",
+  "body_registration": "All greeting foot centers95.0px; idle95.5px. The former2px salute translation is removed.",
+  "silhouette": "New salute is97px wide because its attached elbow extends slightly; head, hat and torso remain consistent. Other new greeting silhouettes93px versus idle94px.",
+  "anatomy_and_identity": "Attached hand and cuff, expressive gold eyes, purposeful wink, original beret/hair/capelet/jabot/shorts/shoes retained.",
+  "scope": "Only greeting source row changed. In default atlas row3 and first4cells ofrow4 are replaced; other cells retain exact RGBA bytes.",
+  "generation": "Built-in image_gen edit grounded in freshly fetched installed atlas and idle source."
+}

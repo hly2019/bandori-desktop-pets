@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "default_unchanged_rows_rgba_identical": [
+    0,
+    1,
+    2,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "default_row4_columns4_through7_identical": true,
+  "master_all_rows_except3_identical": true,
+  "look_rows_rgba_identical": true,
+  "no_per_frame_scaling": true,
+  "default_sha256": "1dc01aa6cc0e75be4c2cd5021c5d57ec59821b2c4ebe440c5a6d5f076aea4060",
+  "master_sha256": "37f7c9df128fe4a3604a3163a9a00dfeb074d5da2e8d136f5ab74b5aeed1c707"
+}

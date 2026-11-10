@@ -1,0 +1,26 @@
+Create one horizontal animation strip for ChatGPT pet `uika`, state `running-right`.
+
+Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
+
+Output exactly 8 full-body frames in one left-to-right row on flat pure user-selected #FF00FF. Treat the row as 8 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
+
+Identity: same pet in every frame: Misumi Uika from BanG Dream! Ave Mujica, using the unmasked Doloris stage costume in the official Ganso chibi merchandise reference. Pale warm blonde bob with a blush-pink underside, asymmetric swept bangs and gently flared side locks; clear lavender eyes with pupils and highlights. Dark fitted stage ensemble with high ruffled collar, restrained gold/brown lacing and layered short hem or coat tails, dark footwear matching the reference. No mask, instrument, hat or detached accessories. Standing front-facing with both feet planted and arms relaxed. Calm assured gaze, tiny warm smile. Reference roles: official-chibi is identity/costume; keyvisual identifies Uika at upper right; Mutsumi reference is only line quality and proportion guidance, never copy her face, clothes, hair or gestures.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `sticker`: Polished sticker mascot with bold clean shapes, crisp outline, flat colors, and minimal highlight detail. User style notes: Refined 2D anime chibi inspired by Ganso Bandori-chan and our approved pet family. About two-head proportions, large softly angular head, short torso and compact limbs. Thin warm dark outlines, flat opaque colors with restrained cel shading. Clear original anime irises, distinct pupils and small white catchlights; expressive rather than vacant. No plush, 3D, pixel art or decorative sticker border..
+Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
+
+State action: Dragging-right loop: show directional movement to the right through body and limb poses only.
+
+State requirements:
+- Show directional drag movement to the right through body, limb, and prop movement only.
+- The row must unmistakably face and travel right.
+- The movement cadence must alternate visibly across the 8 frames instead of repeating one nearly static stride.
+- Do not draw speed lines, dust clouds, floor shadows, motion trails, or detached motion effects.
+
+Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or chroma-key colors inside the pet.
+
+Character-specific choreography: Measured assured small traveling steps facing screen-right, alternating forward foot and opposite forearm; heel-to-toe rhythm, short coat hem and bob ends lag gently. No theatrical hopping or foot sliding.
+
+Reference hierarchy: Image 5 is the accepted canonical character and strictly governs her face, proportions, asymmetric bob, outfit and eye design; original identity references are supplementary only, Mutsumi image is style only. Image 4 is an invisible spacing guide, do not reproduce guide lines or boxes.
+The neutral front-facing, both-feet-planted words in the identity paragraph describe the reference only. THIS ACTION MUST TURN HER HEAD AND TORSO TO SCREEN-RIGHT with nose, gaze and boot toes pointing right, maintaining a readable face. Show a true eight-frame compact rightward walking gait, with alternating near and far legs, opposite-arm counter-swing, and controlled tiny vertical breathing cadence. Not eight repeated running poses and not stationary foot stamping.
+Exact sequential gait phases: (1) near leg forward right heel contact, far leg back left toe push, far arm forward; (2) near leg accepts weight, far heel lifts; (3) far knee passes stance leg forward, near arm moves forward; (4) far leg extends towards right, near heel begins lift; (5) far leg forward right heel contact, near leg back left toe push, near arm forward; (6) far leg accepts weight, near heel lifts; (7) near knee passes stance leg forward, far arm moves forward; (8) near leg extends to next heel contact, far heel begins lift, preparing frame 1. Keep step span compact but visibly different; all arm/leg attachment remains anatomically clear, only two arms and two legs. Coat hem and blonde locks gently trail to screen-left. No hover, hopping, cloud, shadow, motion line, perspective scaling, or detached props.
+Exactly eight complete poses in one wide horizontal strip, consistent scale/head width and baseline; generous spacing and all outer hair tips within the canvas. Pure #FF00FF across the background.

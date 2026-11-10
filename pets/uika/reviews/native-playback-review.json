@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "scope": "Native 192x208 exact-atlas player in IAB; light/dark backgrounds, frame stepping at loop/strip boundaries and corrected walking frame; prior nine-state GIF browser review. Not a live ChatGPT client trigger test.",
+  "observations": [
+    "337.5 to 000 retains the raised-chin family and planted lower body; a roughly three-pixel crown shift and larger pixel-difference warning remain, with no scale jump of torso or boots.",
+    "022.5 to 045 makes a more visible yaw change than its neighbors, but follows the correct directional arc without reversal or anatomy discontinuity.",
+    "157.5 to180 completes the downward bow, with narrower visible lavender eyes and larger crown exposure; feet and body remain planted.",
+    "Corrected running-right frame1 rendered cleanly on the dark stage without visible magenta fringe at the boots.",
+    "Idle and greeting compared on the light stage preserve head/hair volume and body scale; greeting adds a readable open palm and small head tilt.",
+    "Exact final contact and motion stills preserve costume, lavender irises, attached fingers/hands and physical asymmetric hair."
+  ],
+  "retained_minor_warnings": [
+    "022.5,067.5,202.5 are subtle intermediate directions; three blind reviewers correctly classified every pair.",
+    "Numeric continuity outliers at022.5 to045 and337.5 to000 were visually reviewed and accepted."
+  ]
+}

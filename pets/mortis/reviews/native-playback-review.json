@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "scope": "Exact final atlas rendered at native192x208 in IAB, with frame stepping through idle, ready, salute and wink on light/dark stages. Ordered before/after stills and GIF generated from exact encoded old/new sheets.",
+  "observations": [
+    "Idle to greeting keeps beret/head scale and collar height steady.",
+    "Salute uses the same body/foot anchor after correcting2px component-centering artifact.",
+    "Wink changes expression while retaining face dimensions and visible gold iris construction.",
+    "No visible magenta fringe or detached hand anatomy in reviewed greeting frames.",
+    "Full assembled contact preserves prior state art. Unrelated row equality is verified pixel-for-pixel."
+  ],
+  "limitation": "This is exported-art/browser preview verification, not a live ChatGPT client hover-event test."
+}

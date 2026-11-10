@@ -1,0 +1,66 @@
+{
+  "ok": true,
+  "encoded_bytes": 2396483,
+  "sha256": "f00ffd084fe50cc49fcc50529095cb2227d65fddab65476c35740eb96e406e2b",
+  "jump": {
+    "idle_baseline": 203,
+    "jump_baselines": [
+      202,
+      189,
+      168,
+      187,
+      202
+    ],
+    "airborne_lift_pixels": 34,
+    "landing_delta_pixels": 1
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      96.0,
+      95.5,
+      96.5,
+      95.5,
+      95.5,
+      96.0,
+      96.0,
+      96.0,
+      98.5,
+      99.5,
+      99.0,
+      98.0,
+      98.5,
+      98.5,
+      99.0,
+      99.0
+    ],
+    "look_widths": [
+      108,
+      107,
+      103,
+      99,
+      97,
+      98,
+      98,
+      96,
+      97,
+      97,
+      98,
+      100,
+      101,
+      101,
+      102,
+      104
+    ],
+    "maximum_center_drift_pixels": 4.0,
+    "maximum_width_ratio": 1.125
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 022.5 accepted with a reviewed warning",
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 202.5 accepted with a reviewed warning",
+    "022.5->045 diff is a local outlier (1067 pixels vs neighbor average 685)",
+    "337.5->000 diff is a local outlier (1397 pixels vs neighbor average 759)"
+  ]
+}

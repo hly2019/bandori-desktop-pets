@@ -1,0 +1,32 @@
+{
+  "name": "Takamatsu Tomori",
+  "description": "A quietly expressive Tomori with rose-brown eyes, a gray bob, and her blue-and-white jacket.",
+  "identity": "Takamatsu Tomori from BanG Dream! MyGO!!!!!, using the casual outfit in the official Ganso chibi merchandise reference. Soft ash-gray short rounded bob, asymmetric center fringe and short nape; clear warm rose-brown eyes, rounder and more tentative than Uika. Blue/teal varsity-style jacket with cream-white sleeves and striped navy cuffs/hem, white inner top, dark olive-gray shorts with belt, ankle socks and light brown/cream casual shoes as in reference. Preserve her small pale round earring on its correct side if visible. No added hair clips, microphone, notebook, handheld stone or floating effects. Standing front-facing, feet planted, hands resting naturally near jacket hem, softly inward attentive posture, small neutral mouth. Reference roles: official-chibi is identity/costume; keyvisual identifies Tomori at upper left; Mutsumi reference is only line quality and proportion guidance, never copy her face, clothes, hair or gestures.",
+  "motions": {
+    "idle": "Quiet shy breathing with hands resting close to jacket hem, very small shoulder rise, slow blink closed then reopening, tiny bob fringe and sleeve settling. Soft attentive eyes; feet stay planted and first/last nearly match.",
+    "running-right": "Short slightly tentative scurrying steps toward screen-right, elbows tucked and hands close, visibly alternating compact strides; a tiny uneven-but-controlled cadence, jacket sleeves and gray bob follow through. Not a generic confident march.",
+    "running-left": "Independent short screen-left scurry, correct asymmetric fringe and earring side, tucked elbows and alternating compact steps with slightly cautious posture. Preserve forward direction and temporal order.",
+    "waving": "Shy but unmistakable hello: hand peeks upward from near jacket hem to shoulder level, fingers gently open, one small hesitant wrist wave while eyes brighten and mouth becomes a tiny smile, hand eases back toward chest. Other hand stays tucked close.",
+    "jumping": "Small delighted two-foot hop: tuck hands close and crouch a little, lift both feet, a brief bright wide-eyed airborne peak with elbows opening slightly, descend with bob hair and sleeves lagging, gentle two-foot landing with small embarrassed smile. Real upward displacement.",
+    "failed": "Sensitive but recovering reaction: eyes widen slightly, hands draw together near chest, chin and shoulders droop, a small blink and pause, then hands ease and eyes reopen with a determined little look. No crying symbols or floating punctuation.",
+    "waiting": "Tentative request for attention: both hands lightly clasp near jacket front, a small forward lean and upward look to viewer, alternating slight head tilt with a patient blink, shoulders relax a fraction. Clearly expectant without waving.",
+    "running": "Searching for words without props: fingertips touch together near chest in a small rolling/counting motion, gaze lowers in concentration then lifts with a tiny recognition, softly mouthed syllable and earnest short nod; all movement anchored at feet.",
+    "review": "Curious close inspection: lean slightly forward, head tilts gently to each side as eyes examine, small intent blink, then a modest double nod and faint pleased smile, return upright. No magnifier or new objects."
+  },
+  "style": "Refined 2D anime chibi inspired by Ganso Bandori-chan and our approved pet family. About two-head proportions, large softly angular head, short torso and compact limbs. Thin warm dark outlines, flat opaque colors with restrained cel shading. Clear original anime irises, distinct pupils and small white catchlights; expressive rather than vacant. No plush, 3D, pixel art or decorative sticker border.",
+  "sources": [
+    {
+      "url": "https://bushiroad-store.com/collections/bang-dream_acrylicstand/products/2000325457907",
+      "role": "Official Ganso chibi character and costume reference"
+    },
+    {
+      "url": "https://animecorner.me/bang-dream-chan-mini-anime-reveals-key-visual-featuring-all-band-vocalists/",
+      "role": "Official Ganso key visual reproduced in news; eye shape and face details"
+    },
+    {
+      "url": "https://anime.bang-dream.com/bandorichan/character/mygo/",
+      "role": "Official indexed personality profile; direct fetch returned 404"
+    }
+  ],
+  "hover_preference": "Match existing collection: greeting on hover, preserve fully validated genuine-jump master."
+}

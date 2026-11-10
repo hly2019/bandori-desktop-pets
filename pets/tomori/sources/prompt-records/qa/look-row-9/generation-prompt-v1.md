@@ -1,0 +1,20 @@
+Create ONE coherent EIGHT-POSE look-direction sprite strip of Takamatsu Tomori. Exact left-to-right gaze order: 000 UP, 022.5 UP-RIGHT, 045 UP-RIGHT, 067.5 UP-RIGHT, 090 RIGHT, 112.5 DOWN-RIGHT, 135 DOWN-RIGHT, 157.5 DOWN-RIGHT. These are screen/viewer directions. No neutral frame.
+
+REFERENCE ROLES: Input1 combined original identity/style references: gray-haired Tomori only, Mutsumi line/proportion style only. Input2 invisible8slotguide for spacing; omit all marks. Input3 canonical Tomori exact identity/proportions/rose-brown eye design/outfit. Input4 approved standard contact sheet confirms family scale; ignore all grid and labels. Input5 ROOT-APPROVED cardinal strip, in order UP/RIGHT/DOWN/LEFT, is authoritative for actual head pitching/yawing and facial construction. Frame0 must match its UP; frame4 must match its RIGHT; finalframe7 must approach its DOWN smoothly from the right.
+
+Draw all8poses together as a unified family: exact same planted FRONT-FACING torso, hips, shorts, low hands, legs and sneakers in every pose; identical scale and feet baseline. No body turntable, side-facing torsos, stepping feet, head translation, separate pose rescaling or isolated style variants. Head turns anatomically at attached neck; skull volume unchanged. Hair stays attached and follows the head. Both eyes remain readable, preserving irises/pupils/sclera/eyelids/catchlights. Direction requires head-face-plane yaw/pitch plus natural gaze, not merely shifting pupils.
+
+HEAD ARC (description only, never print numbers):
+0 000: exact approved UP family. Head tipped up, chin raised and underside visible, eyes naturally high toward top, less upper crown. Face broadly frontal, no horizontal yaw.
+1 022.5: still strongly looking UP, slight yaw RIGHT. Raised chin, eye plane high; nose/face gently right of head center. Mostly up, a small but visible right component.
+2 045: clearly UP AND RIGHT together. Moderate raised chin and about25degree right head yaw; upper-looking eye plane and nose point diagonally up-right.
+3 067.5: mostly RIGHT with a small but visible UP pitch. Head yaw about35degrees; chin a little above neutral, lower sclera visible under upward/rightward irises. Neither fully level nor down.
+4 090: exact approved SCREEN-RIGHT family. Head yaw about40degrees, level chin/eye plane, nose/mouth and both irises aim right; near left cheek exposed, far right eye narrower.
+5 112.5: mostly RIGHT with a small visible DOWN pitch. Head yaw stays strong right, chin begins tuck, upper crown more visible than4; nose and eye plane point down-right.
+6 135: balanced DOWN AND RIGHT. Head bows with moderate right yaw; more crown, lower eye plane and chin toward collar. Both eyes aimed toward lower-right with original eyes intact.
+7 157.5: mostly DOWN with slight RIGHT yaw, one even step before approved frontal DOWN. Stronger chin tuck and broad upper crown; face still visible, nose/face gently right of center. Do not accidentally look left or return to level.
+
+The head sweeps continuously clockwise through RIGHT HALF only, smoothly dropping its vertical gaze from UP→levelRIGHT→DOWN-RIGHT. Intermediates change evenly; do not duplicate cardinal poses across adjacent cells. No reversed sweep. Keep final157.5 close to approvedDOWN in pitch, face, body size and baseline.
+
+IDENTITY: soft ash-gray asymmetric bob with longer anatomical-right lock (screen-left in frontal), single pearl earring on anatomical-left ear (screen-right in frontal). In right yaw far pearl may occlude, never transfer it to visible near ear. Gentle earnest rose-brown anime eyes, tiny parted mouth, teal varsity jacket/cream sleeves, striped cuffs/hem, gray-olive shorts, white socks, cream sneakers. No new props.
+Exactly8fully separated complete silhouettes in one horizontal row on pure flat#FF00FF, generous gutters/outer padding. No clipping, overlap, touching neighbors, text, labels, arrows, clockfaces, frames, grid, floor, shadows, glow, detached effects or extracharacters. Same head/body dimensions and source foot baseline throughout.

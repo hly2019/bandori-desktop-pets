@@ -1,0 +1,64 @@
+{
+  "ok": true,
+  "encoded_bytes": 2081766,
+  "sha256": "a016cf70adadef01f4af19b9f3592526be738df5d2dc08a8b5a5258ef994e025",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      185,
+      168,
+      187,
+      202
+    ],
+    "airborne_lift_pixels": 34,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      95.5,
+      95.5,
+      95.0,
+      93.5,
+      94.5,
+      94.0,
+      95.0,
+      95.0,
+      95.0,
+      95.5,
+      95.0,
+      95.0,
+      95.0,
+      95.0,
+      95.0,
+      95.5
+    ],
+    "look_widths": [
+      91,
+      91,
+      90,
+      89,
+      89,
+      88,
+      88,
+      86,
+      88,
+      89,
+      90,
+      92,
+      92,
+      92,
+      92,
+      91
+    ],
+    "maximum_center_drift_pixels": 2.5,
+    "maximum_width_ratio": 1.069767441860465
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 202.5 accepted with a reviewed warning",
+    "337.5->000 diff is a local outlier (1244 pixels vs neighbor average 807)"
+  ]
+}

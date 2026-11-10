@@ -1,0 +1,25 @@
+{
+  "final_pixels_match_previously_uploaded_pet": true,
+  "packaged_sprite_bytes_unchanged": true,
+  "jump_backup_differs_only_in_row_4": true,
+  "greeting_cells_match_approved_wave_and_idle": true,
+  "review_scope": "Production native-size, proportion, direction and transparent-edge reviews, plus a stored-asset RGBA comparison. Packaging validation does not claim new live client interaction testing.",
+  "prior_verification": {
+    "ok": true,
+    "downloaded_for_repository_verification": true,
+    "rgba_pixels_identical": true,
+    "size": [
+      1536,
+      2288
+    ],
+    "local_sha256": "14c9e2d3310f2c200f7217c7ba4593aba840f4d86a13225dde54a65169402e45",
+    "download_sha256": "1f9fed8eb10413e78538a89014574a167d2427eb0b2de64b71c6f4b5b94b4489",
+    "note": "PNG container encoding may differ; every decoded RGBA pixel matches."
+  },
+  "production_reviews": [
+    "reviews/pet-quality.json",
+    "reviews/pet-quality-hover.json",
+    "reviews/native-playback-review.json",
+    "reviews/blind-validation.json"
+  ]
+}

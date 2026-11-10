@@ -2,8 +2,8 @@
 
 ## Unofficial fan project
 
-This collection depicts Wakaba Mutsumi, Togawa Sakiko, and Mortis from the
-BanG Dream! series. It is a free, noncommercial fan project. It is not affiliated
+This collection depicts Wakaba Mutsumi, Togawa Sakiko, Mortis, Misumi Uika, and
+Takamatsu Tomori from the BanG Dream! series. It is a free, noncommercial fan project. It is not affiliated
 with, sponsored by, or endorsed by BanG Dream!, Bushiroad, or their partners.
 
 The underlying character names, designs, and related intellectual property

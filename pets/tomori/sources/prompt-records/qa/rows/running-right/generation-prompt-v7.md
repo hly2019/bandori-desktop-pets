@@ -1,0 +1,6 @@
+Edit only ONE small color region in Input5, the eight-figure Tomori strip. Preserve the entire strip, all8figures, all geometry, poses, faces, eyes, clothing, spacing, shadows and magenta background.
+In the SEVENTH figure from LEFT (second figure from RIGHT), there is one straight leg planted down under the pelvis on the LEFT side of that figure, and one bent knee lifted on the RIGHT.
+Change ONLY the EXPOSED SKIN OF THE STRAIGHT PLANTED LEG on the LEFT of that seventh figure from pale cream to the same muted ROSE-BEIGE skin shade as the straight planted leg of the SIXTH figure immediately to its left.
+The seventh figure's bent lifted knee on its RIGHT stays PALE cream. White sock and cream sneaker unchanged. Shorts unchanged. Keep every edge/outline exactly.
+This is anatomical far-leg shade consistency: figure6 straight supportleg is already correctly rose-beige; figure7 straight supportleg should be the SAME rose-beige. In figure7 the raised bent near knee stays pale. Change absolutely no other part or panel.
+Inputs1 identity board,2canonical Tomori,3 invisible8slotguide,4approved legphaseanchors,5the exact striptoedit. Output same eight complete figures in one horizontal row, pure#FF00FFbackground, no text/labels/borders. Do not redraw or reposition figures.

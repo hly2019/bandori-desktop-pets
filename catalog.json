@@ -17,6 +17,18 @@
       "name": "Mortis",
       "romanized": "Mortis",
       "description": "A red beret and black-and-red stage costume, with playful salutes, winks and reactions."
+    },
+    {
+      "slug": "uika",
+      "name": "Misumi Uika",
+      "romanized": "Misumi Uika",
+      "description": "Lavender eyes, pale blonde hair and a dark stage outfit, with a warm cheek-side wave and composed, rhythmic gestures."
+    },
+    {
+      "slug": "tomori",
+      "name": "Takamatsu Tomori",
+      "romanized": "Takamatsu Tomori",
+      "description": "Rose-brown eyes, a gray bob and a blue-and-white jacket, with a shy wave, compact scurrying steps and earnest reactions."
     }
   ],
   "format_version": 1

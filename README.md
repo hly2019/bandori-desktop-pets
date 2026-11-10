@@ -1,6 +1,6 @@
 # BanG Dream! Desktop Pets
 
-An unofficial chibi desktop pet collection featuring **Wakaba Mutsumi**, **Togawa Sakiko**, and **Mortis**. Includes the finished transparent sprite sheets, animation previews, original jump variants, and selected generation sources. All three default variants greet when hovered.
+An unofficial chibi desktop pet collection featuring **Wakaba Mutsumi**, **Togawa Sakiko**, **Mortis**, **Misumi Uika**, and **Takamatsu Tomori**. Includes the finished transparent sprite sheets, animation previews, original jump variants, and selected generation sources. All five default variants greet when hovered.
 
 The artwork was created with AI image generation, iterative direction, and animation assembly. This is a free, noncommercial fan project, unaffiliated with and not endorsed by BanG Dream!, Bushiroad, or their partners. See [artwork provenance and rights](ARTWORK.md).
 
@@ -8,6 +8,15 @@ The artwork was created with AI image generation, iterative direction, and anima
 | --- | --- | --- |
 | ![Mutsumi greeting](pets/mutsumi/previews/greeting.gif) | ![Sakiko greeting](pets/sakiko/previews/greeting.gif) | ![Mortis greeting](pets/mortis/previews/greeting.gif) |
 | [Sprite sheet](pets/mutsumi/spritesheet.png) · [All animations](pets/mutsumi/previews/all-states.gif) | [Sprite sheet](pets/sakiko/spritesheet.png) · [All animations](pets/sakiko/previews/all-states.gif) | [Sprite sheet](pets/mortis/spritesheet.png) · [All animations](pets/mortis/previews/all-states.gif) |
+
+| Misumi Uika | Takamatsu Tomori |
+| --- | --- |
+| ![Uika greeting](pets/uika/previews/greeting.gif) | ![Tomori greeting](pets/tomori/previews/greeting.gif) |
+| [Sprite sheet](pets/uika/spritesheet.png) · [All animations](pets/uika/previews/all-states.gif) | [Sprite sheet](pets/tomori/spritesheet.png) · [All animations](pets/tomori/previews/all-states.gif) |
+
+Uika has a warm cheek-side wave, measured steps and rhythmic thinking gestures. Tomori has a hesitant greeting, compact scurrying steps and earnest, inward reactions. Each has an individual appearance and motion plan, with a genuine jump preserved in the alternate sprite sheet.
+
+Mortis's greeting has been repaired to keep her beret, head and torso proportions consistent with idle. Her salute and wink remain, and every unrelated animation frame is unchanged. See the [before-and-after comparison](pets/mortis/previews/before-after.gif) and [repair review](pets/mortis/reviews/visual-repair-review.json).
 
 ## Preview and use
 
@@ -22,10 +31,13 @@ pets/
   mutsumi/                      Wakaba Mutsumi
   sakiko/                       Togawa Sakiko
   mortis/                       Mortis
+  uika/                         Misumi Uika
+  tomori/                       Takamatsu Tomori
     spritesheet.png             Default variant: greet on hover
     spritesheet-with-jump.png   Backup with the original jump
     manifest.json               Dimensions, frame counts, hashes and mappings
     quality.json                Original QA and packaging consistency records
+    reviews/                    Detailed QA for additions and repaired Mortis
     previews/                   GIFs, MP4, direction sheets and individual states
     sources/
       strips/                   Selected generated artwork
@@ -62,7 +74,9 @@ python -m pip install -r requirements.txt
 python scripts/validate_assets.py
 ```
 
-The validator checks all six sprite sheets for dimensions, transparent unused cells, populated frames, file hashes, and the exact relationship between the greeting and jump variants. Original production QA also inspected proportions at native size, arm connections, transparent edges, and look directions. Records of pixel comparisons against the uploaded assets are retained in each character's `quality.json`.
+The validator checks all ten sprite sheets for dimensions, transparent unused cells, populated frames, file hashes, and the exact relationship between the greeting and jump variants. Original production QA also inspected proportions at native size, arm connections, transparent edges, and look directions. Records of pixel comparisons against the uploaded assets are retained in each character's `quality.json`.
+
+Detailed reviews for Uika, Tomori and the Mortis repair are included in their `reviews/` folders. A few shallow look directions and numeric continuity outliers were visually reviewed and accepted; these observations remain in the reports. Native-size browser reviews and stored-asset comparisons do not establish the timing or triggers used by every Pets client version.
 
 Selected generation sources are included in `sources/`. Original prompt records retain the language used during production. Earlier candidates and complete production archives remain in the original project and are not duplicated here.
 

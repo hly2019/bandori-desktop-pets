@@ -1,0 +1,32 @@
+{
+  "name": "Misumi Uika",
+  "description": "A composed, expressive Uika with lavender eyes, pale blonde hair, and an unmasked dark stage outfit.",
+  "identity": "Misumi Uika from BanG Dream! Ave Mujica, using the unmasked Doloris stage costume in the official Ganso chibi merchandise reference. Pale warm blonde bob with a blush-pink underside, asymmetric swept bangs and gently flared side locks; clear lavender eyes with pupils and highlights. Dark fitted stage ensemble with high ruffled collar, restrained gold/brown lacing and layered short hem or coat tails, dark footwear matching the reference. No mask, instrument, hat or detached accessories. Standing front-facing with both feet planted and arms relaxed. Calm assured gaze, tiny warm smile. Reference roles: official-chibi is identity/costume; keyvisual identifies Uika at upper right; Mutsumi reference is only line quality and proportion guidance, never copy her face, clothes, hair or gestures.",
+  "motions": {
+    "idle": "Quiet grounded breathing with tiny shoulder rise, soft half blink then full blink and reopening, pale side locks settle a beat later. Calm slight smile and relaxed low hands. No hand gestures.",
+    "running-right": "Measured assured small traveling steps facing screen-right, alternating forward foot and opposite forearm; heel-to-toe rhythm, short coat hem and bob ends lag gently. No theatrical hopping or foot sliding.",
+    "running-left": "Independent screen-left gait preserving the asymmetric bangs and costume details; measured compact alternating steps and restrained arm swings, soft hair and coat-tail follow-through.",
+    "waving": "Idol-like personal greeting: hand travels from upper chest to beside cheek, a gentle open-palm wrist wave with a small warm smile and brief soft eye narrowing, then lowers to chest. No bow copied from Sakiko and no Mortis hat salute.",
+    "jumping": "Small confident buoyant hop: knees soften and arms gather, rise with softly opening forearms, modest airborne knee tuck and brighter smile, controlled descent with hair lifting slightly, neat soft landing and return. Keep actual vertical lift.",
+    "failed": "Momentary surprise shown by a blink and small parted mouth, shoulders draw in, one attached hand lightly presses sternum; eyes close for an exhale, chin lowers, then a steadying breath and quiet resolve return. No melodramatic tears.",
+    "waiting": "Patient invitation: one open palm offered at waist while the other stays near chest, restrained curious eyebrow lift, tiny weight shift and listening head inclination, warm gaze holds then relaxes.",
+    "running": "Songwriting thought without added props: one hand lightly at chin and the other hand quietly counts a rhythmic phrase with fingertip motions near chest; eyes focus up-right in thought, small measured beat nod, fingers settle. Feet stay planted.",
+    "review": "Thoughtful lyric check: eyes and chin follow a small left-to-right inspection arc, fingertips pause near chin, a brief concentrated blink, then a deliberate approving nod and gentle satisfied smile. No new props."
+  },
+  "style": "Refined 2D anime chibi inspired by Ganso Bandori-chan and our approved pet family. About two-head proportions, large softly angular head, short torso and compact limbs. Thin warm dark outlines, flat opaque colors with restrained cel shading. Clear original anime irises, distinct pupils and small white catchlights; expressive rather than vacant. No plush, 3D, pixel art or decorative sticker border.",
+  "sources": [
+    {
+      "url": "https://bushiroad-store.com/collections/bang-dream_acrylicstand/products/2000325457921",
+      "role": "Official Ganso chibi character and costume reference"
+    },
+    {
+      "url": "https://animecorner.me/bang-dream-chan-mini-anime-reveals-key-visual-featuring-all-band-vocalists/",
+      "role": "Official Ganso key visual reproduced in news; eye shape and face details"
+    },
+    {
+      "url": "https://anime.bang-dream.com/avemujica/character/uika/",
+      "role": "Official indexed personality profile; direct fetch returned 404"
+    }
+  ],
+  "hover_preference": "Match existing collection: greeting on hover, preserve fully validated genuine-jump master."
+}

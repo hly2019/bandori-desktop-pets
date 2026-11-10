@@ -1,0 +1,22 @@
+Create ONE coherent EIGHT-POSE LEFT-HALF look-direction strip of Takamatsu Tomori, continuing the already approved right-half row. Exact gaze order from left to right:180 DOWN,202.5 DOWN-LEFT,225 DOWN-LEFT,247.5 DOWN-LEFT,270 LEFT,292.5 UP-LEFT,315 UP-LEFT,337.5 UP-LEFT. Screen/viewer directions only. No neutral pose.
+
+INPUTS:1 original identity board (gray-haired Tomori; green-haired Mutsumi style guidance only).2 invisible8slotguide, never copy lines.3 exact canonical Tomori identity and rose eye design.4 approved standard contact sheet, never copy labels/checkerboards.5 context board: top has approved cardinal anchors UP/RIGHT/DOWN/LEFT, middle is APPROVED RAW ROW9 at its actual SOURCE scale, bottom registered row9. Use cardinal families for head mechanics and raw row9 for source scale. Do not copy the multi-row reference-board composition.
+
+CRITICAL OUTPUT SIZE/SCALE LOCK: One landscape strip,3:1 aspect, approximately2172×724pixels, matching raw row9. Exactly8complete figures in one row. Match middle raw row9 reference's WHOLE-BODY HEIGHT439–444pixels, crown around y151 and shoe bottom594. This means figures occupy about61% of image height, with generous solid-magenta top/bottom margins. Do not fill canvas vertically with larger characters and do not use tiny registered figure sizes. Keep same torso height, skull volume, widths, hands, leg length and shoe size as raw row9. Feet all on one source baseline. All8 share one scale; no independent resizing.
+
+ALL LOWER BODIES identically FRONT-FACING: upright torso/shoulders, hips, shorts, low relaxed hands at jacket hem, planted frontal sneakers. Only connected head/neck and eyes yaw/pitch. No turning entire body, stepping, bending knees, whole-sprite tilt, sideways head translation or pupil-only direction cheat. Draw all8 together as a coherent family with the same palette and line/render style.
+
+HEAD ARC:
+0 180: exact approved DOWN family, smoothly one step after previous row157.5. Broad visible upper crown, bowed chin tucked by collar, face plane/nose/eye plane directed toward feet. Face broadly frontal, both eyes visible, not closed. No right or left yaw.
+1 202.5: still strongly DOWN, slight LEFT yaw. Chin tucked and broad crown, nose/mouth/iris plane a little left of head center. Mostly down, small clear left component.
+2 225: balanced DOWN AND LEFT. Moderate left head yaw and bowed chin; lower-looking eye plane, face aims diagonally down-left.
+3 247.5: mostly LEFT with small visible DOWN pitch. Strong left yaw, chin slightly below neutral, more crown than levelLEFT, eyes/nose point below horizontal-left.
+4 270: exact approved SCREEN-LEFT cardinal. Head yaw about35–40degrees left, level chin/eye plane, nose/mouth clearly left of head center, near right cheek/ear visible, far left eye narrowed by perspective. Both original eyes look left.
+5 292.5: mostly LEFT with small visible UP pitch. Keep strong left yaw, lift chin slightly, gaze above horizontal-left; less crown and some lower sclera than270.
+6 315: balanced UP AND LEFT. Moderate left yaw with raised chin, eyes high, lower face/underside visible, looking diagonally top-left.
+7 337.5: mostly UP with slight LEFT yaw, one even step before row9first000. Match approvedUP/rawrow9first family's raised chin, high eye plane, attached neck and less visible crown. Nose and face remain slightly left of center. Smoothly return to frontalUP next, not neutralforward.
+
+Maintain both components of each diagonal, increasing then decreasing LEFT yaw smoothly and steadily lifting pitch fromDOWN→levelLEFT→UP-LEFT. No rightward reversal and no abrupt geometry pop at180 or337.5. Adjacent poses should differ gently without copying an identical head for multiple directions.
+
+PRESERVE IDENTITY: asymmetrical soft ash-gray bob, longer anatomical-right lock (screen-left in frontal); single pearl earring on anatomical-left ear (screen-right in frontal), visibly attached on near right side during left yaw. Shorter near-side lock, longer far lock naturally occluded, never mirror hairstyle. Keep rose-brown anime irises, dark pupils, white catchlights, original sclera/lid construction, tiny neutral mouth and earnest curious expression. Teal varsity jacket with cream sleeves, striped cuffs/hem, gray shorts, white socks and cream sneakers. No new props.
+Pure flat#FF00FFbackground,8separated full silhouettes with clear gutters and outer margin, no clipping. No labels, numbers, directions, borders, arrows, grid, floor, shadow, glow, detached effects, watermark or extra characters.

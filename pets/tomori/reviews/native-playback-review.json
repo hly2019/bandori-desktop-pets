@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "scope": "Native 192x208 atlas player in IAB, light/dark standard GIF review, final frame stepping at look-strip join and loop closure. Not a live ChatGPT client trigger test.",
+  "observations": [
+    "Native head-turn loop rendered with transparent background and readable rose eyes; no visible magenta fringe on dark stage.",
+    "337.5 to 000 accepted: small head-pitch change, planted lower body and coherent face geometry; numeric pixel-difference warning retained.",
+    "157.5 to 180 accepted: continued downward face pitch, stable feet/costume; slight source head-size difference remains within gate tolerance.",
+    "Idle/greeting sequence preserves body proportions; open palm and shy head tilt are readable.",
+    "All nine standard rows reviewed in native-size GIF browser; final stills inspected for attached hands, costume and eye consistency."
+  ],
+  "limitations": [
+    "The two shallow intermediate directions remain subtle; three isolated blind reviewers classified all pairs correctly."
+  ]
+}

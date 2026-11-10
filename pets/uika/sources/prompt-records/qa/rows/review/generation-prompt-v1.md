@@ -1,0 +1,28 @@
+Create one horizontal animation strip for ChatGPT pet `uika`, state `review`.
+
+Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
+
+Output exactly 6 full-body frames in one left-to-right row on flat pure user-selected #FF00FF. Treat the row as 6 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
+
+Identity: same pet in every frame: Misumi Uika from BanG Dream! Ave Mujica, using the unmasked Doloris stage costume in the official Ganso chibi merchandise reference. Pale warm blonde bob with a blush-pink underside, asymmetric swept bangs and gently flared side locks; clear lavender eyes with pupils and highlights. Dark fitted stage ensemble with high ruffled collar, restrained gold/brown lacing and layered short hem or coat tails, dark footwear matching the reference. No mask, instrument, hat or detached accessories. Standing front-facing with both feet planted and arms relaxed. Calm assured gaze, tiny warm smile. Reference roles: official-chibi is identity/costume; keyvisual identifies Uika at upper right; Mutsumi reference is only line quality and proportion guidance, never copy her face, clothes, hair or gestures.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `sticker`: Polished sticker mascot with bold clean shapes, crisp outline, flat colors, and minimal highlight detail. User style notes: Refined 2D anime chibi inspired by Ganso Bandori-chan and our approved pet family. About two-head proportions, large softly angular head, short torso and compact limbs. Thin warm dark outlines, flat opaque colors with restrained cel shading. Clear original anime irises, distinct pupils and small white catchlights; expressive rather than vacant. No plush, 3D, pixel art or decorative sticker border..
+Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
+
+State action: Ready-review loop: focused inspection of completed output with lean, blink, narrowed eyes, head tilt, or paw pose.
+
+State requirements:
+- Show review through lean, blink, narrowed eyes, head tilt, or paw/hand position.
+- Do not add magnifying glasses, papers, code, UI, punctuation, symbols, or other new props unless they already exist in the base pet identity.
+
+Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or chroma-key colors inside the pet.
+
+Character-specific choreography: Thoughtful lyric check: eyes and chin follow a small left-to-right inspection arc, fingertips pause near chin, a brief concentrated blink, then a deliberate approving nod and gentle satisfied smile. No new props.
+
+
+REFERENCE ORDER: image 1 combines the three original references, with Uika in the upper-right of the group visual and the official blonde merchandise figure. Mutsumi is line-quality/proportion guidance only. Image 2 is an INVISIBLE six-slot guide and none of its marks, boxes, lines or text may appear. Image 3 is the ACCEPTED canonical Uika, the absolute authority for face, eye construction, outline, blonde asymmetrical bob and flared viewer-left hair, pale pink hair underside, high ruffled collar, brown fitted laced waist, layered dark/cream short skirt/coat hem, restrained gold buttons and boot details. Preserve that exact design and front-facing body proportions.
+
+SIX new review/inspection poses, one horizontal left-to-right sequence: 1) calm focused Uika with fingertips of one attached hand lightly paused beside/below chin, the other hand relaxed low by waist, lavender eyes and chin looking a little to screen-left; 2) measured eyes/chin shift to center, same thoughtful hand position; 3) eyes/chin complete the small inspection arc toward screen-right, no full-profile turn; 4) a brief concentrated full blink with hands held steady; 5) one deliberate small approving nod, chin dips naturally at neck and eyes softly reopen, gentle satisfied smile starts; 6) lift back upright after that single nod with the restrained warm satisfied smile, chin hand eases down a little toward collar/chest while other hand stays low. The head and eyes lead a very small inspection arc. No dramatic head tilts, repeated double nod, active fingertip counting, typing, or waving.
+
+Fingertips remain cleanly attached to one wrist/arm/sleeve; chin gesture never hides the mouth or entire collar. Preserve clear lavender irises, dark oval pupils, white catchlights and opaque sclera in every open-eye pose, including the nod; never replace them with gold, beige, rose or vacant dots. Keep the same head dimensions, torso volume, leg lengths and boot size in all six figures. Both boots remain planted on EXACTLY one common baseline with no walking, stepping or jumping. Gentle anatomy and secondary hair/hem settling only, no broad resizing, squash or stretch.
+
+All six complete characters separated by magenta space with generous margin and no clipping. Perfectly flat pure #FF00FF outside the opaque sprite. No props, mask, hat, instrument, paper, magnifier, floating marks, effects, shadows, ground line or text.

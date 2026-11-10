@@ -1,0 +1,28 @@
+Create one horizontal animation strip for ChatGPT pet `tomori`, state `review`.
+
+Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
+
+Output exactly 6 full-body frames in one left-to-right row on flat pure user-selected #FF00FF. Treat the row as 6 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
+
+Identity: same pet in every frame: Takamatsu Tomori from BanG Dream! MyGO!!!!!, using the casual outfit in the official Ganso chibi merchandise reference. Soft ash-gray short rounded bob, asymmetric center fringe and short nape; clear warm rose-brown eyes, rounder and more tentative than Uika. Blue/teal varsity-style jacket with cream-white sleeves and striped navy cuffs/hem, white inner top, dark olive-gray shorts with belt, ankle socks and light brown/cream casual shoes as in reference. Preserve her small pale round earring on its correct side if visible. No added hair clips, microphone, notebook, handheld stone or floating effects. Standing front-facing, feet planted, hands resting naturally near jacket hem, softly inward attentive posture, small neutral mouth. Reference roles: official-chibi is identity/costume; keyvisual identifies Tomori at upper left; Mutsumi reference is only line quality and proportion guidance, never copy her face, clothes, hair or gestures.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `sticker`: Polished sticker mascot with bold clean shapes, crisp outline, flat colors, and minimal highlight detail. User style notes: Refined 2D anime chibi inspired by Ganso Bandori-chan and our approved pet family. About two-head proportions, large softly angular head, short torso and compact limbs. Thin warm dark outlines, flat opaque colors with restrained cel shading. Clear original anime irises, distinct pupils and small white catchlights; expressive rather than vacant. No plush, 3D, pixel art or decorative sticker border..
+Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
+
+State action: Ready-review loop: focused inspection of completed output with lean, blink, narrowed eyes, head tilt, or paw pose.
+
+State requirements:
+- Show review through lean, blink, narrowed eyes, head tilt, or paw/hand position.
+- Do not add magnifying glasses, papers, code, UI, punctuation, symbols, or other new props unless they already exist in the base pet identity.
+
+Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or chroma-key colors inside the pet.
+
+Character-specific choreography: Curious close inspection: lean slightly forward, head tilts gently to each side as eyes examine, small intent blink, then a modest double nod and faint pleased smile, return upright. No magnifier or new objects.
+
+
+REFERENCE ORDER: image 1 combines the original references; only the gray-haired Tomori supplies identity. Mutsumi is style finish only, never eye color or face. Image 2 is the INVISIBLE six-slot guide; never reproduce its marks or text. Image 3 is the approved canonical Tomori and controls exact proportions, rose eyes, asymmetric ash-gray bob with long viewer-left lock, one pale viewer-right earring, outfit and shoes. Image 4 is the approved idle for size/identity continuity only.
+
+Produce SIX new curious-inspection/checking-completed-work poses in one horizontal row. Tomori examines something in front of her without any added object. Both hands stay low by the jacket hem, softly gathered near the lower abdomen or lightly resting at the hem; do not lift to chest, count fingers, clasp beneath the chin or wave. This low hand placement makes review visibly distinct from active work and waiting.
+
+Left-to-right timing: 1) a small forward lean and slight head tilt toward one side, eyes examine intently toward the lower front; 2) head moves through to a modest tilt toward the other side, eyes inspecting; 3) return near center and make one natural complete blink as chin dips in the first tiny nod; 4) head rises a little, eyes reopen with recognition and a faint pleased smile; 5) a second modest downward nod, eyes still open and warm rose-brown, small smile retained; 6) return upright with the quiet satisfied smile and relaxed low hands. The two tiny nods are natural neck/head motions, not crouching or changing body size.
+
+Both feet stay fixed on one common source baseline in all six frames. Keep head width and facial structure, torso volume, leg length/thickness and shoe size constant. Use gentle eye/head/neck motion, no broad character rotations, scale changes or stretching. Warm rose irises, dark pupils, white catchlights and opaque sclera preserved whenever eyes open; no beige or gold iris drift. No magnifying glass, paper, screen, microphone, notebook, stone, checkmark or floating effects. Six full separate connected figures, flat solid #FF00FF background, no labels or shadows.

@@ -1,0 +1,26 @@
+Create one horizontal animation strip for ChatGPT pet `tomori`, state `waving`.
+
+Use the attached canonical base for identity. Use the attached layout guide only for slot count, spacing, centering, and padding; do not draw the guide.
+
+Output exactly 4 full-body frames in one left-to-right row on flat pure user-selected #FF00FF. Treat the row as 4 invisible equal-width slots: one centered complete pose per slot, evenly spaced, with no overlap, clipping, empty slots, labels, or borders.
+
+Identity: same pet in every frame: Takamatsu Tomori from BanG Dream! MyGO!!!!!, using the casual outfit in the official Ganso chibi merchandise reference. Soft ash-gray short rounded bob, asymmetric center fringe and short nape; clear warm rose-brown eyes, rounder and more tentative than Uika. Blue/teal varsity-style jacket with cream-white sleeves and striped navy cuffs/hem, white inner top, dark olive-gray shorts with belt, ankle socks and light brown/cream casual shoes as in reference. Preserve her small pale round earring on its correct side if visible. No added hair clips, microphone, notebook, handheld stone or floating effects. Standing front-facing, feet planted, hands resting naturally near jacket hem, softly inward attentive posture, small neutral mouth. Reference roles: official-chibi is identity/costume; keyvisual identifies Tomori at upper left; Mutsumi reference is only line quality and proportion guidance, never copy her face, clothes, hair or gestures.. Preserve silhouette, face, proportions, markings, palette, material, style, and props.
+Style: Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `sticker`: Polished sticker mascot with bold clean shapes, crisp outline, flat colors, and minimal highlight detail. User style notes: Refined 2D anime chibi inspired by Ganso Bandori-chan and our approved pet family. About two-head proportions, large softly angular head, short torso and compact limbs. Thin warm dark outlines, flat opaque colors with restrained cel shading. Clear original anime irises, distinct pupils and small white catchlights; expressive rather than vacant. No plush, 3D, pixel art or decorative sticker border..
+Animation continuity: keep apparent pet scale and baseline stable within the row unless the state itself intentionally changes vertical position, such as `jumping`. Move the pose within the slot instead of redrawing the pet larger or smaller frame to frame.
+
+State action: Greeting loop: paw or limb down, raised, tilted, and returning in a friendly attention gesture.
+
+State requirements:
+- Show the greeting through paw, hand, wing, or limb pose only.
+- Do not draw wave marks, motion arcs, lines, sparkles, symbols, or floating effects around the gesture.
+
+Clean extraction: crisp opaque edges, safe padding, no scenery, text, guide marks, checkerboard, shadows, glows, motion blur, speed lines, dust, detached effects, stray pixels, or chroma-key colors inside the pet.
+
+Character-specific choreography: Shy but unmistakable hello: hand peeks upward from near jacket hem to shoulder level, fingers gently open, one small hesitant wrist wave while eyes brighten and mouth becomes a tiny smile, hand eases back toward chest. Other hand stays tucked close.
+
+
+REFERENCE AUTHORITY: image 3 is the ACCEPTED canonical Tomori; match its exact head-to-body proportions, eye construction, gray bob with longer viewer-left lock, one pale earring on viewer-right, outfit and outline. Image 4 is her ACCEPTED idle strip for continuity and eye color, not the requested action. Image 1 combines all original references; only gray-haired Tomori is identity, Mutsumi is style only and must never affect the face or eye colors. Image 2 is the invisible layout guide, no lines or text copied.
+
+Four-pose choreography left to right: (1) a shy hello begins, viewer-left hand peeks upward from beside jacket hem to lower chest, fingers relaxing from the cuff, the other hand stays naturally beside the opposite hem; (2) viewer-left hand reaches shoulder height just outside the cheek, a small open palm faces the viewer, elbow bent and visibly connected through its cream sleeve, rose eyes brighten and a tiny closed-mouth smile appears; (3) the same attached palm tilts modestly outward for one tentative wrist wave, a tiny accompanying head inclination, soft pleased attentive eyes; (4) hand lowers toward upper chest, fingers gently relax inward, shy little smile eases toward neutral. This is one natural little greeting, not a broad exuberant cheer. No head-width change, no leg-length change or body squash. Feet remain on an identical baseline in every pose, torso centered, shoes retain size and spacing.
+
+Rose-pink / warm rose-brown irises with dark oval pupils and small white catchlights must remain consistent in ALL four poses; do not replace them with gold or beige eyes. Keep the palm anatomically clean and simple in the same chibi line style. One wrist connects to one hand; no extra limbs, detached fingers or floating marks. Four complete separated poses only, one horizontal row, pure #FF00FF background.
