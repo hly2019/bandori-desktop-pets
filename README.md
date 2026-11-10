@@ -2,6 +2,8 @@
 
 An unofficial chibi desktop pet collection featuring **Wakaba Mutsumi**, **Togawa Sakiko**, and **Mortis**. Includes the finished transparent sprite sheets, animation previews, original jump variants, and selected generation sources. All three default variants greet when hovered.
 
+The artwork was created with AI image generation, iterative direction, and animation assembly. This is a free, noncommercial fan project, unaffiliated with and not endorsed by BanG Dream!, Bushiroad, or their partners. See [artwork provenance and rights](ARTWORK.md).
+
 | Wakaba Mutsumi | Togawa Sakiko | Mortis |
 | --- | --- | --- |
 | ![Mutsumi greeting](pets/mutsumi/previews/greeting.gif) | ![Sakiko greeting](pets/sakiko/previews/greeting.gif) | ![Mortis greeting](pets/mortis/previews/greeting.gif) |
@@ -64,4 +66,10 @@ The validator checks all six sprite sheets for dimensions, transparent unused ce
 
 Selected generation sources are included in `sources/`. Original prompt records retain the language used during production. Earlier candidates and complete production archives remain in the original project and are not duplicated here.
 
-The characters originate from the BanG Dream! series. This repository collects unofficial fan-made pet assets.
+## License and character rights
+
+The original offline player (`index.html`, including its HTML, CSS, and JavaScript) and asset validator (`scripts/validate_assets.py`) are available under the [MIT License](LICENSE). The license applies only to those code files.
+
+Character artwork, sprite sheets, previews, generation sources, prompt records, and other repository material are outside that code license. BanG Dream! character names, designs, and related intellectual property belong to Bushiroad and/or their respective rights holders. This repository does not grant rights to that underlying intellectual property or imply official authorization.
+
+Read [ARTWORK.md](ARTWORK.md) for provenance and the scope of this notice, and consult the [official BanG Dream! content-use guidelines](https://bang-dream.com/bdp-guideline/) before reusing character assets. Any reuse remains subject to applicable rights and guidelines.
